@@ -2,7 +2,7 @@
 
 Instantly convert text-based PDFs or raw text into summary bullet points and export them as a PowerPoint (.pptx) presentation.
 
-![AutoSlide Screenshot]([https://via.placeholder.com/800x400.png?text=Add+App+Screenshot+Here](https://github.com/Mr-TarunD/AutoSlide/blob/423b91bc5d0fe812dd47e727ac9d17c8d84fd202/Screenshot%202025-10-28%20214944.png)
+![AutoSlide Screenshot](https://github.com/Mr-TarunD/AutoSlide/blob/fec73d7b2b61d342bf3b1bb53056a5ec83a3f436/Screenshot%202025-10-28%20214944.png)
 
 ![AutoSlide Screenshot](https://github.com/Mr-TarunD/AutoSlide/blob/423b91bc5d0fe812dd47e727ac9d17c8d84fd202/Screenshot%202025-10-28%20215035.png)
 
@@ -45,7 +45,7 @@ Follow these instructions to get the project running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/autoslide.git](https://github.com/your-username/autoslide.git)
+    git clone https://github.com/Mr-TarunD/AutoSlide.git
     cd autoslide
     ```
 
