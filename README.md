@@ -2,8 +2,10 @@
 
 Instantly convert text-based PDFs or raw text into summary bullet points and export them as a PowerPoint (.pptx) presentation.
 
-![AutoSlide Screenshot](https://via.placeholder.com/800x400.png?text=Add+App+Screenshot+Here)
-*<(Add a screenshot or GIF of your running application here!)*
+![AutoSlide Screenshot]([https://via.placeholder.com/800x400.png?text=Add+App+Screenshot+Here](https://github.com/Mr-TarunD/AutoSlide/blob/423b91bc5d0fe812dd47e727ac9d17c8d84fd202/Screenshot%202025-10-28%20214944.png)
+
+![AutoSlide Screenshot](https://github.com/Mr-TarunD/AutoSlide/blob/423b91bc5d0fe812dd47e727ac9d17c8d84fd202/Screenshot%202025-10-28%20215035.png)
+
 
 ---
 
